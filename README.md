@@ -1,1 +1,1 @@
-# ACAT2024-Bridging-Worlds-Achieving-Language-Interoperability-between-Julia-and-Python
+# Bridging Worlds: Achieving Language Interoperability between Julia and Python in Scientific Computing
