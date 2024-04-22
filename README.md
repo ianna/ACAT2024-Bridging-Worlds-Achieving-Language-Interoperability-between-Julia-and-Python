@@ -1,5 +1,7 @@
 # Bridging Worlds: Achieving Language Interoperability between Julia and Python in Scientific Computing
 
+Ianna Osborne, Jim Pivarski, Jerry 🦑 Ling, 13 Mar 2024
+
 Abstract:
 
 In the realm of scientific computing, both Julia and Python have established themselves as powerful tools. Within the context of High Energy Physics (HEP) data analysis, Python has been traditionally favored, yet there exists a compelling case for migrating legacy software to Julia.
